@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "CrystalSMP-49CQ.aternos.me",
-    "port": 40274,
-    "version": "26.1.2",
+    "ip": "AVSchoolServer-lwtg.aternos.me",
+    "port": 31330,
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
